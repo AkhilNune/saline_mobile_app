@@ -8,8 +8,13 @@ When the electrolyte fluid level falls below a certain threshold, notifications 
 # Tools and Technologies Used:
 
 Android Studio: Used for developing the Android application interface.
+
 Firebase Database: Employed for real-time data storage and retrieval.
+
 Java: Programming language utilized for Android app development.
+
 Arduino: Utilized for interfacing with the load sensor and servo motor, and controlling hardware components.
+
 Load Sensor: Employed to measure the quantity of electrolyte fluid.
+
 Servo Motor: Used to stop the flow of fluid when the electrolyte bottle is empty.
