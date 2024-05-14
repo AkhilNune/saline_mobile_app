@@ -18,3 +18,8 @@ Arduino: Utilized for interfacing with the load sensor and servo motor, and cont
 Load Sensor: Employed to measure the quantity of electrolyte fluid.
 
 Servo Motor: Used to stop the flow of fluid when the electrolyte bottle is empty.
+
+# UML Representation of the Complete Project Approach 
+
+![WhatsApp Image 2020-01-31 at 12 38 45](https://github.com/AkhilNune/saline_mobile_app/assets/95137061/688e08da-8a3b-4b1a-a5e9-7f9114d2424a)
+
