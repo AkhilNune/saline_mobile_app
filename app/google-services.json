@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439349665114",
+    "firebase_url": "https://saline-application.firebaseio.com",
+    "project_id": "saline-application",
+    "storage_bucket": "saline-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439349665114:android:8834359e13c38f45f56763",
+        "android_client_info": {
+          "package_name": "com.example.salineapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439349665114-6f67hc4lmtddrt2lk9m7cbeileg5aikj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salineapplication",
+            "certificate_hash": "327a81f3454824832e739c609fcb74757a2e962e"
+          }
+        },
+        {
+          "client_id": "439349665114-7durqo7o9ef9kku8fh0fb9acpugf9icp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRO4DDQnfEB3ty538k1Xl1Pg0YoErwQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439349665114-7durqo7o9ef9kku8fh0fb9acpugf9icp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
